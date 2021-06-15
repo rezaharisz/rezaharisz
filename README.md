@@ -6,7 +6,7 @@ My name is Reza Haris Alfikri. I am a third years Informatics Engineering Studen
 
 ![Reza Haris Alfikri GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&exclude_repo=github-readme-stats,rezaharisz.github.io&theme=synthwave)](https://github.com/rezaharisz/github-readme-stats)
+![Reza Haris Alfikri's github stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&layout=compact&theme=lavender)
 
 
 ## Reach me via 👇
