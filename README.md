@@ -16,3 +16,4 @@ My name is Reza Haris Alfikri. I am a third years Informatics Engineering Studen
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzeO_1alwpjvbAGNnWJUtcQ)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/rezaharisz)
 [![Blogger](https://img.shields.io/badge/Blogger-white.svg?style=for-the-badge&logo=blogger)](https://segudangilmu69.blogspot.com)
+[![Facebook](https://img.shields.io/badge/Facebook-lavender.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/reza.parkirningdalanan)
