@@ -4,9 +4,7 @@ My name is Reza Haris Alfikri. I am a third years Informatics Engineering Studen
 🌱 Currently still learning at Bangkit Academy 2021 led by Google, Tokopedia, Gojek, & Traveloka in Mobile Development Learning Path
 
 
-![Reza Haris Alfikri GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true&theme=synthwave)
-
-![Reza Haris Alfikri's github stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&layout=compact&theme=lavender)
+![Reza Haris Alfikri GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true&theme=synthwave)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&layout=compact&theme=synthwave)
 
 
 ## Reach me via 👇
