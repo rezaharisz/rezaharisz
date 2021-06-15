@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Welcome to my Github Repository 👋
 My name is Reza Haris Alfikri. I am a third years Informatics Engineering Student at Stikubank University Semarang. A technology enthusiast focusing on android application development. Really like solving a problem with technology in it.
 
 🌱 Currently still learning at Bangkit Academy 2021 led by Google, Tokopedia, Gojek, & Traveloka in Mobile Development Learning Path
