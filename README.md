@@ -9,7 +9,7 @@ My name is Reza Haris Alfikri. I am a third years Informatics Engineering Studen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&?includeForks=true&layout=compact&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rezaharisz&row=2&column=3&theme=dracula)](https://github.com/rezaharisz/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rezaharisz&row=2&column=3&theme=dracula)](https://github-profile-trophy.vercel.app/?username=rezaharisz&row=2&column=3&theme=dracula)
 
 ## Reach me via 👇
 
