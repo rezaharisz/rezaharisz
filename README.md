@@ -9,7 +9,7 @@ My name is Reza Haris Alfikri. I am a final years Informatics Engineering Studen
 
 ## Reach me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reza-haris-alfikri-68705a17a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rezaharisz)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzeO_1alwpjvbAGNnWJUtcQ)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/rezaharisz)
 [![Blogger](https://img.shields.io/badge/Blogger-white.svg?style=for-the-badge&logo=blogger)](https://segudangilmu69.blogspot.com)
