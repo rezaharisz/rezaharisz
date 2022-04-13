@@ -1,5 +1,4 @@
 ### Hi there, Welcome to my Github Repository 👋
-My name is Reza Haris Alfikri. I am a final years Informatics Engineering Student at Stikubank University Semarang. A technology enthusiast focusing on Mobile Application Development. Really like solving a problem with technology in it.
 
 ![Reza Haris Alfikri GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true&theme=synthwave)
 
