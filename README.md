@@ -1,7 +1,5 @@
 ### Hi there, Welcome to my Github Repository 👋
 
-![Reza Haris Alfikri GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaharisz&show_icons=true&theme=synthwave)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezaharisz&theme=synthwave) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaharisz&?includeForks=true&layout=compact&theme=synthwave)
